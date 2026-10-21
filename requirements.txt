@@ -1,0 +1,9 @@
+streamlit>=1.40
+pypdf>=5.0
+python-dotenv>=1.0
+python-docx>=1.1
+google-genai>=1.0
+# --- development / sample generation / tests ---
+reportlab>=4.0
+pillow>=10.0
+pytest>=8.0
